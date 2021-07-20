@@ -1,4 +1,4 @@
 # dFC-EEG-fMRI
-Tools for comparing EEG and fMRI connectivity dynamics
+Tools for comparing EEG and fMRI connectivity dynamics for Wirsich et al. NeuroImage 2020 
 
-see preprint: https://www.biorxiv.org/content/early/2018/11/07/464438
+https://www.sciencedirect.com/science/article/pii/S1053811920304845
